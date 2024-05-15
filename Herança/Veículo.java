@@ -4,7 +4,7 @@ public class Veiculo {
 	private String modelo;
 	private int ano;
 	private String cor;
-	
+	 
 	public String getMarca() {
 		return marca;
 	}
